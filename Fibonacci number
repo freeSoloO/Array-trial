@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace CommonElements
+namespace FibonacciNumber
 {
-    class CommonElements
+    class FibonacciNumber
     {
         static void Main(string[] args)
         {
